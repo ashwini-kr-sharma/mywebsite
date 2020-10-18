@@ -5,7 +5,6 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 20
-canonifyURLs = true
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
@@ -21,7 +20,7 @@ disqusShortname = "ashwinikumarsharma"
     avatarurl = "AKSprofilePic.jpeg"
     footercontent = "Personal website of Ashwini Kumar Sharma"
 
-    dateformat = "October 2, 2020"
+    dateformat = "January 2, 2006"
 
     hideFooter = false
     hideCredits = false
