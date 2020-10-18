@@ -1,0 +1,145 @@
+baseurl = "ashwini-kr-sharma.github.io"
+title = "AK Sharma"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Ashwini Kumar Sharma, PhD"
+    info = "Computational Biologist"
+    description = "AK Sharma's personal website"
+    keywords = "NGS, Genomics, Cancer, Data analysis"
+    avatarurl = "AKSprofilePic.jpeg"
+    footercontent = "Personal website of Ashwini Kumar Sharma"
+
+    dateformat = "October 2, 2020"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2020
+
+    rtl = false
+    math = true
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hidecolorschemetoggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = [] #"css/custom.css"
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe=true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+    name = "Google Scholar"
+    icon = "ai ai-google-scholar ai-2x"
+    weight = 1
+    url = "https://goo.gl/tvIoC2"
+[[params.social]]
+    name = "Pubmed"
+    icon = "ai ai-pubmed ai-2x"
+    weight = 2
+    url = "https://goo.gl/kvodaz"
+# [[params.social]]
+#     name = "ResearchGate"
+#     icon = "fab fa-researchgate fa-2x"
+#     weight = 3
+#     url = "https://goo.gl/h6xfHp"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 4
+    url = "https://goo.gl/cCzpnL"
+[[params.social]]
+    name = "Orcid"
+    icon = "ai ai-orcid ai-2x"
+    weight = 5
+    url = "https://orcid.org/0000-0001-7883-7888"
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 6
+    url = "https://github.com/ashwini-kr-sharma/"
+# [[params.social]]
+#     name = "Docker"
+#     icon = "fa fa-docker fa-2x"
+#     weight = 7
+#     url = "https://hub.docker.com/u/ashwinikrsharma"
+
+# [[params.social]]
+#     name = "Gitlab"
+#     icon = "fab fa-gitlab fa-2x"
+#     weight = 8
+#     url = "https://gitlab.com/ashwinkr7/"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope fa-2x"
+    weight = 9
+    url = "mailto:ashwinkr7@gmail.com"
+
+    [languages]
+        [languages.en]
+            languagename = "English"
+
+            [languages.en.menu]
+
+                [[languages.en.menu.main]]
+                name = "About"
+                weight = 1
+                url = "about/"
+
+                [[languages.en.menu.main]]
+                name = "Work"
+                weight = 2
+                url = "work/"
+
+                [[languages.en.menu.main]]
+                name = "Publications"
+                weight = 3
+                url = "publications/"
+
+                [[languages.en.menu.main]]
+                name = "Blog"
+                weight = 4
+                url = "posts/"
+
+                [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "contact/"
