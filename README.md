@@ -2,7 +2,14 @@
 
 This is my personal website powered by [HUGO](https://gohugo.io/) and based on the [hugo-coder](https://github.com/luizdepra/hugo-coder/) theme.
 
-This is the root directory structure and the most important directories are the `content` and `static` where all the changes will be made. HUGO renders these changes and the build the new website in the `public` directory which is then mirrored in my [website](https://github.com/ashwini-kr-sharma/)
+This is the root directory structure of my website is shown below. The `content` and `static` directories are the most important which holds the files where future changes will be made. HUGO renders these changes and then builds the new website in the `public` directory which is then mirrored in my [website](https://github.com/ashwini-kr-sharma/)
+
+After making any changes, simply execute the `./deploy.sh "Your optional commit message"` file, which will do the following -
+
+1. Push the changes to this repository which is my [website github repository](https://github.com/ashwini-kr-sharma/mywebsite)
+2. Push the `public` folder (a git sunmodule, where HUGO locally rebuilds the website) to my [mirroring website repository](https://github.com/ashwini-kr-sharma/ashwini-kr-sharma.github.io)
+
+(NOTE: I have modified this script from [here](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to add step 1 above.
 
         .
         ├── README.md
@@ -44,9 +51,3 @@ This is the root directory structure and the most important directories are the 
         │   └── redoxSC.jpg
         └── themes
             └── hugo-coder
-
-
-After making any changes, simply execute the `./deploy.sh` file, which will do -
-
-1. Push the changes to my [website github repository](https://github.com/ashwini-kr-sharma/mywebsite)
-2. Push the `public` folder (a git sunmodule, with the locally HUGO built website) to my [mirroring website repository](https://github.com/ashwini-kr-sharma/ashwini-kr-sharma.github.io)
