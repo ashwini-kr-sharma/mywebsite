@@ -10,9 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disablePathToLower = true
-
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "ashwinikumarsharma"
 
 [params]
     author = "Ashwini Kumar Sharma, PhD"
@@ -124,22 +122,22 @@ disqusShortname = "yourdiscussshortname"
                 [[languages.en.menu.main]]
                 name = "About"
                 weight = 1
-                url = "about/"
+                url = "/about/"
 
                 [[languages.en.menu.main]]
                 name = "Work"
                 weight = 2
-                url = "work/"
+                url = "/work/"
 
                 [[languages.en.menu.main]]
                 name = "Publications"
                 weight = 3
-                url = "publications/"
+                url = "/publications/"
 
                 [[languages.en.menu.main]]
                 name = "Blog"
                 weight = 4
-                url = "posts/"
+                url = "/posts/"
 
                 [[languages.en.menu.main]]
                 name = "CV"
@@ -149,4 +147,4 @@ disqusShortname = "yourdiscussshortname"
                 [[languages.en.menu.main]]
                 name = "Contact me"
                 weight = 6
-                url = "contact/"
+                url = "/contact/"
