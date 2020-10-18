@@ -140,6 +140,11 @@ disqusShortname = "yourdiscussshortname"
                 url = "posts/"
 
                 [[languages.en.menu.main]]
-                name = "Contact me"
+                name = "CV"
                 weight = 5
+                url = "aksCV20.pdf"
+
+                [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 6
                 url = "contact/"
