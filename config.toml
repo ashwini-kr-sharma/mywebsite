@@ -1,4 +1,4 @@
-baseurl = "ashwini-kr-sharma.github.io"
+baseurl = "https://ashwini-kr-sharma.github.io/"
 title = "AK Sharma"
 theme = "hugo-coder"
 languagecode = "en"
