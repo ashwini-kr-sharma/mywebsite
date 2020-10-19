@@ -113,38 +113,64 @@ disqusShortname = "ashwinikumarsharma"
     weight = 9
     url = "mailto:ashwinkr7@gmail.com"
 
-    [languages]
-        [languages.en]
-            languagename = "English"
+    # Menu links
+    [[menu.main]]
+        name = "About"
+        weight = 1
+        url  = "about/"
+    [[menu.main]]
+        name = "Work"
+        weight = 2
+        url = "work/"
+    [[menu.main]]
+        name = "Publications"
+        weight = 3
+        url = "publications/"
+    [[menu.main]]
+        name = "Blog"
+        weight = 3
+        url = "posts/"
+    [[menu.main]]
+        name = "CV"
+        weight = 4
+        url = "aksCV20.pdf"
+    [[menu.main]]
+        name = "Contact"
+        weight = 5
+        url = "contact/"
 
-            [languages.en.menu]
-
-                [[languages.en.menu.main]]
-                name = "About"
-                weight = 1
-                url = "/about/"
-
-                [[languages.en.menu.main]]
-                name = "Work"
-                weight = 2
-                url = "/work/"
-
-                [[languages.en.menu.main]]
-                name = "Publications"
-                weight = 3
-                url = "/publications/"
-
-                [[languages.en.menu.main]]
-                name = "Blog"
-                weight = 4
-                url = "/posts/"
-
-                [[languages.en.menu.main]]
-                name = "CV"
-                weight = 5
-                url = "aksCV20.pdf"
-
-                [[languages.en.menu.main]]
-                name = "Contact me"
-                weight = 6
-                url = "/contact/"
+    # [languages]
+    #     [languages.en]
+    #         languagename = "English"
+    #
+    #         [languages.en.menu]
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "About"
+    #             weight = 1
+    #             url = "/about/"
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "Work"
+    #             weight = 2
+    #             url = "/work/"
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "Publications"
+    #             weight = 3
+    #             url = "/publications/"
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "Blog"
+    #             weight = 4
+    #             url = "/posts/"
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "CV"
+    #             weight = 5
+    #             url = "aksCV20.pdf"
+    #
+    #             [[languages.en.menu.main]]
+    #             name = "Contact me"
+    #             weight = 6
+    #             url = "/contact/"
