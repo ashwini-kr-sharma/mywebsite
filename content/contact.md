@@ -66,7 +66,7 @@ date: 2020-10-15T12:09:02+02:00
        <label for="email">Email</label>
      </div>
      <div class="col-75">
-       <input type="email" id="lname" name="_replyto" placeholder="Your email">
+       <input type="text" id="email" name="_replyto" placeholder="Your email">
      </div>
    </div>
 
