@@ -29,12 +29,6 @@ date: 2020-10-15T12:09:02+02:00
       float: right;
     }
 
-    .col-25 {
-      float: left;
-      width: 25%;
-      margin-top: 6px;
-    }
-
     .col-75 {
       float: left;
       width: 75%;
@@ -58,7 +52,7 @@ date: 2020-10-15T12:09:02+02:00
 <div class="container">
   <form action="https://formspree.io/f/xnqopppw" method="POST">
     <div class="row">
-      <div class="col-25">
+      <div class="col-75">
         <label for="fname">Name</label>
       </div>
       <div class="col-75">
@@ -66,7 +60,7 @@ date: 2020-10-15T12:09:02+02:00
       </div>
     </div>
     <div class="row">
-      <div class="col-25">
+      <div class="col-75">
         <label for="lname">Email</label>
       </div>
       <div class="col-75">
@@ -74,7 +68,7 @@ date: 2020-10-15T12:09:02+02:00
       </div>
     </div>
     <div class="row">
-      <div class="col-25">
+      <div class="col-75">
         <label for="subject">Message</label>
       </div>
       <div class="col-75">
