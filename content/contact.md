@@ -51,6 +51,7 @@ date: 2020-10-15T12:09:02+02:00
 
 <div class="container">
   <form action="https://formspree.io/f/xnqopppw" method="POST">
+
     <div class="row">
       <div class="col-75">
         <label for="fname">Name</label>
@@ -59,14 +60,16 @@ date: 2020-10-15T12:09:02+02:00
         <input type="text" id="fname" name="firstname" placeholder="Your name">
       </div>
     </div>
+
     <div class="row">
       <div class="col-75">
-        <label for="lname">Email</label>
+        <label for="email">Email</label>
       </div>
       <div class="col-75">
         <input type="email" id="lname" name="_replyto" placeholder="Your email">
       </div>
     </div>
+
     <div class="row">
       <div class="col-75">
         <label for="subject">Message</label>
@@ -75,9 +78,11 @@ date: 2020-10-15T12:09:02+02:00
         <textarea id="subject" name="subject" placeholder="Your message" style="height:200px"></textarea>
       </div>
     </div>
+
     <div class="row">
-      <input type="submit" value="Send">
+    <input type="submit" value="Send">
     </div>
+
   </form>
 </div>
 
