@@ -29,12 +29,6 @@ date: 2020-10-15T12:09:02+02:00
       float: right;
     }
 
-    .container {
-      border-radius: 5px;
-      background-color: #f2f2f2;
-      padding: 20px;
-    }
-
     .col-25 {
       float: left;
       width: 25%;
