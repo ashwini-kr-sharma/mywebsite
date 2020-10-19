@@ -56,7 +56,7 @@ date: 2020-10-15T12:09:02+02:00
         <label for="fname">Name</label>
       </div>
       <div class="col-75">
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input type="text" id="fname" name="firstname" placeholder="Your name">
       </div>
     </div>
     <div class="row">
@@ -72,7 +72,7 @@ date: 2020-10-15T12:09:02+02:00
         <label for="subject">Message</label>
       </div>
       <div class="col-75">
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+        <textarea id="subject" name="subject" placeholder="Your message" style="height:200px"></textarea>
       </div>
     </div>
     <div class="row">
