@@ -15,10 +15,10 @@ disqusShortname = "aksweb"
 [params]
     author = "Ashwini Kumar Sharma, PhD"
     info = "Computational Biologist"
-    description = "AK Sharma's personal website"
-    keywords = "NGS, Genomics, Cancer, Data analysis"
+    description = "Ashwini Kumar Sharma Website"
+    keywords = "Ashwini Kumar Sharma, AK Sharma, Ashwini Sharma, Bioinformatics, Computational Biology, Cancer, GSK"
     avatarurl = "AKSprofilePic.jpeg"
-    footercontent = "Personal website of Ashwini Kumar Sharma"
+    footercontent = "Website of Ashwini Kumar Sharma"
 
     dateformat = "January 2, 2006"
 
