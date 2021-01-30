@@ -47,13 +47,13 @@ This is the root directory structure of my website is shown below.
             └── hugo-coder
 ```
 
-The `content` and `static` directories are the most important which holds the files where future changes will be made. HUGO renders these changes and then builds the new website in the `public` directory which is then mirrored in my [website](https://github.com/ashwini-kr-sharma/)
+The `content` and `static` directories are the most important which holds the files where future changes will be made. HUGO renders these changes and then builds the new website in the `public` directory which is then mirrored in my [website](https://ashwini-kr-sharma.github.io/)
 
 
 After making any changes, do the following -
 
-1. Push the changes to this repository which is my [website github repository](https://github.com/ashwini-kr-sharma/mywebsite)
-2. Push the `public` folder (a git sunmodule, where HUGO locally rebuilds the website) to my [mirroring website repository](https://github.com/ashwini-kr-sharma/ashwini-kr-sharma.github.io)
+1. Push the changes from the root directory `../mywebsite/` to my [website github repository](https://github.com/ashwini-kr-sharma/mywebsite)
+2. Push the `../mywebsite/public` folder (a git submodule, where HUGO locally rebuilds the website) to my [mirroring website repository](https://github.com/ashwini-kr-sharma/ashwini-kr-sharma.github.io)
 
 ```
 # from the root directory .../mywebsite/
