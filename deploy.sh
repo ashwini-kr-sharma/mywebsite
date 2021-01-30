@@ -22,20 +22,20 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin main
 
-# Go back to root
-cd -
-
-# Commiting to the <ashwini-kr-sharma/mywebsite> git
-git add .
-
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-        msg="$*"
-fi
-git commit -m "$msg"
-
-# Push source and build repos.
-git push origin master
+# # Go back to root
+# cd -
+#
+# # Commiting to the <ashwini-kr-sharma/mywebsite> git
+# git add .
+#
+# # Commit changes.
+# msg="rebuilding site $(date)"
+# if [ -n "$*" ]; then
+#         msg="$*"
+# fi
+# git commit -m "$msg"
+#
+# # Push source and build repos.
+# git push origin master
