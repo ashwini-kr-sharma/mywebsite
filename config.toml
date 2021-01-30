@@ -127,16 +127,20 @@ disqusShortname = "aksweb"
         weight = 3
         url = "publications/"
     [[menu.main]]
-        name = "Blog"
+        name = "Teaching"
         weight = 4
+        url = "teaching/"
+    [[menu.main]]
+        name = "Blog"
+        weight = 5
         url = "posts/"
     [[menu.main]]
         name = "CV"
-        weight = 5
+        weight = 6
         url = "aksCV20.pdf"
     [[menu.main]]
         name = "Contact"
-        weight = 6
+        weight = 7
         url = "contact/"
 
     # [languages]
