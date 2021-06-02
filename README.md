@@ -55,6 +55,8 @@ After making any changes, do the following -
 1. Push the changes from the root directory `../mywebsite/` to my [website github repository](https://github.com/ashwini-kr-sharma/mywebsite)
 2. Push the `../mywebsite/public` folder (a git submodule, where HUGO locally rebuilds the website) to my [mirroring website repository](https://github.com/ashwini-kr-sharma/ashwini-kr-sharma.github.io)
 
+To perform the two steps above, execute in order as shown below
+
 ```
 # from the root directory .../mywebsite/
 
