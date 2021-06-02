@@ -2,7 +2,7 @@
 
 This is my personal website powered by [HUGO](https://gohugo.io/) and based on the [hugo-coder](https://github.com/luizdepra/hugo-coder/) theme.
 
-This is the root directory structure of my website is shown below. 
+This is the root directory structure of my website is shown below.
 
 ```
       .
@@ -58,30 +58,34 @@ After making any changes, do the following -
 To perform the two steps above, execute in order as shown below
 
 ```
-# from the root directory .../mywebsite/
+#-------------------------------------------------------------------------------
+# Go to your HUGO website root directory and make your changes
+#-------------------------------------------------------------------------------
 
-# Build new website with the changes
+cd /Users/ashwin/Documents/Personal/Docs/Websites/mywebsite
+
+#-------------------------------------------------------------------------------
+# Build new website locally with the changes above
+#-------------------------------------------------------------------------------
+
 hugo -t hugo-coder
 
-# see if all the changes are reflected
+#-------------------------------------------------------------------------------
+# See if all the changes are reflected then add, commit and push to your GitHub
+#-------------------------------------------------------------------------------
+
 git status
-
-# Push changes
 git add .
-
 git commit -m "Website update"
-
 git push
 
-# Hugo renders the changes in the .../mywebsite/public/ folder
+#-------------------------------------------------------------------------------
+# Hugo renders the changes in the .../mywebsite/public/ folder, push these too
+#-------------------------------------------------------------------------------
 
 cd public
-
-# Push changes
 git add .
-
 git commit -m "Website update"
-
 git push
 
 ```

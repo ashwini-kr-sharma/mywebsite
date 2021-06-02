@@ -4,7 +4,7 @@ date: 2020-10-15T12:08:40+02:00
 ---
 
 <a href="https://goo.gl/tvIoC2"> <i class="ai ai-google-scholar ai-3x"> </i> </a>
-<a href="https://goo.gl/kvodaz/"> <i class="ai ai-pubmed ai-2x ai-3x"> </i> </a>
+<a href="https://tinyurl.com/4wwaaych"> <i class="ai ai-pubmed ai-2x ai-3x"> </i> </a>
 
 ---
 
