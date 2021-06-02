@@ -9,9 +9,9 @@ date: 2020-10-15T12:08:40+02:00
 ---
 
 # Available online
-1. Gartlgruber, M, **Sharma, AK** ,  Quintero, A,  Dreidax, D,  Jansky, S,  Park, Y, Gogolin, S, Meder, J,  Doncevic D,  Saary P,  Toprak, UH,   Ishaque, N,  Afanasyeva, E, Koster, J,  Versteeg R,  Grünewald, TGP, Jones, DTW, Pfister, SM, Henrich, K, Nes, Jv, Herrmann, C, Westermann, F. [Super enhancers define regulatory subtypes and cell identity in neuroblastoma.](https://rdcu.be/cetzn) **Nature Cancer** (2020)
+1. Gartlgruber, M, **Sharma, AK** ,  Quintero, A,  Dreidax, D,  Jansky, S,  Park, Y, Gogolin, S, Meder, J,  Doncevic D,  Saary P,  Toprak, UH,   Ishaque, N,  Afanasyeva, E, Koster, J,  Versteeg R,  Grünewald, TGP, Jones, DTW, Pfister, SM, Henrich, K, Nes, Jv, Herrmann, C, Westermann, F. [Super enhancers define regulatory subtypes and cell identity in neuroblastoma.](https://doi.org/10.1038/s43018-020-00145-w) **Nature Cancer** (2020)
 
-2. Jansky S, Sharma AK , Körber V, Toprak UH, Gartlgruber M, Greco A, Quintero A, Chomsky E, Henrich K, Tanay A, Herrmann C, Höfer T, Westermann F. [Single-cell transcriptomic analyses provide insights into the developmental origins of neuroblastoma](https://rdcu.be/clMXN). **Nature Genetics** (2021)
+2. Jansky S, Sharma AK , Körber V, Toprak UH, Gartlgruber M, Greco A, Quintero A, Chomsky E, Henrich K, Tanay A, Herrmann C, Höfer T, Westermann F. [Single-cell transcriptomic analyses provide insights into the developmental origins of neuroblastoma](https://doi.org/10.1038/s41588-021-00806-1). **Nature Genetics** (2021)
 
 3. Alvarez CR, Kee C, Sharma AK , Thomas L, Schmidt F, Stanifer ML, Boulant S, Herrmann C. [SPINT2 controls SARS-CoV-2 viral infection and is associated to disease severity](https://doi.org/10.1101/2020.12.28.424029) **bioRxiv** (2021)
 
@@ -19,23 +19,23 @@ date: 2020-10-15T12:08:40+02:00
 
 5. Triana S, Metz Zumaran C, Ramirez C, Kee C, Doldan P, Shahraz M, Schraivogel D, Gschwind AR, Sharma AK, Steinmetz LM, Herrmann C. [Single cell analyses reveal SARSCoV2 interference with intrinsic immune response in the human gut.](https://doi.org/10.15252/msb.202110232) **Molecular systems biology** (2021)
 
-6. Schwarz E, Alnæs D, Andreassen OA, Cao H, Chen J, Degenhardt F, Dwyer D, Eils R, Erdmann J, Herrmann C, Hofmann-Apitius M, Kaufmann T, Koutsouleris N, Kodamullil AT, Khuntia A, Munoz-Venegas ML, Nöthen MM, Paul R, Quintero A, Schunkert H, Sharma AK, Tost H, Westlye LT, Zhang Y, Meyer-Lindenberg A [Identifying multimodal signatures underlying the somatic comorbidity of psychosis: the COMMITMENT roadmap.](https://pubmed.ncbi.nlm.nih.gov/33060817/) Molecular Psychiatry (2020
+6. Schwarz E, Alnæs D, Andreassen OA, Cao H, Chen J, Degenhardt F, Dwyer D, Eils R, Erdmann J, Herrmann C, Hofmann-Apitius M, Kaufmann T, Koutsouleris N, Kodamullil AT, Khuntia A, Munoz-Venegas ML, Nöthen MM, Paul R, Quintero A, Schunkert H, Sharma AK, Tost H, Westlye LT, Zhang Y, Meyer-Lindenberg A [Identifying multimodal signatures underlying the somatic comorbidity of psychosis: the COMMITMENT roadmap.](https://doi.org/10.1038/s41380-020-00915-z) Molecular Psychiatry (2020
 
-7. Ansari, SS, **Sharma, AK**, Ali,D, Eibl, H, Soni, H, Tews, B, König, R, Berger, MR. [Induction of ER and mitochondrial stress by the alkylphosphocholine erufosine in oral squamous cell carcinoma cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5833417/). **Cell Death and Disease** (2018)
+7. Ansari, SS, **Sharma, AK**, Ali,D, Eibl, H, Soni, H, Tews, B, König, R, Berger, MR. [Induction of ER and mitochondrial stress by the alkylphosphocholine erufosine in oral squamous cell carcinoma cells](https://doi.org/10.1038/s41419-018-0342-2). **Cell Death and Disease** (2018)
 
 8. Ansari, S. S., **Sharma, AK**, Zepp, M., Ivanova, E., Bergmann, F., König, R., Berger, M. R. [Upregulation of cell cycle genes in head and neck cancer patients may be antagonized by erufosine’s down regulation of cell cycle processes in OSCC cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5814175/). **Oncotarget** (2017)
 
-9. **Sharma AK**, Eils R and König R. [Copy number alterations in enzyme-coding and cancer-causing genes reprogram tumor metabolism.](http://www.ncbi.nlm.nih.gov/pubmed/27216182) **Cancer Research** (2016)
+9. **Sharma AK**, Eils R and König R. [Copy number alterations in enzyme-coding and cancer-causing genes reprogram tumor metabolism.](https://doi.org/10.1158/0008-5472.CAN-15-2350) **Cancer Research** (2016)
 
 10. **Sharma AK** [Computational Analysis of Metabolic Reprogramming in Tumors.](http://www.ub.uni-heidelberg.de/archiv/20332) **Doctoral Dissertation**,  (2016)
 
-11. Shukla K, <b>Sharma AK</b>, Ward A, Will R, Hielscher T, Balwierz A, Breunig C, Münstermann E, König R, Keklikoglou I and Wiemann S. [MicroRNA-30c-2-3p negatively regulates NF-κB signaling and cell cycle progression through downregulation of TRADD and CCNE1 in breast cancer.](http://www.ncbi.nlm.nih.gov/pubmed/25732226) **Molecular Oncology** (2015)
+11. Shukla K, <b>Sharma AK</b>, Ward A, Will R, Hielscher T, Balwierz A, Breunig C, Münstermann E, König R, Keklikoglou I and Wiemann S. [MicroRNA-30c-2-3p negatively regulates NF-κB signaling and cell cycle progression through downregulation of TRADD and CCNE1 in breast cancer.]( https://doi.org/10.1016/j.molonc.2015.01.008) **Molecular Oncology** (2015)
 
-12. Khandelwal N, Breinig M, Speck T, Michels T, Kreutzer C, Sorrentino A, **Sharma AK**, Umansky L, Conrad H, Poschke I, Offringa R, König R, Bernhard H, Machlenkin A, Boutros M and Beckhove P. [A high-throughput RNAi screen for detection of immune checkpoint molecules that mediate tumor resistance to cytotoxic T lymphocytes.](http://www.ncbi.nlm.nih.gov/pubmed/25691366) **EMBO Molecular Medicine** (2015)
+12. Khandelwal N, Breinig M, Speck T, Michels T, Kreutzer C, Sorrentino A, **Sharma AK**, Umansky L, Conrad H, Poschke I, Offringa R, König R, Bernhard H, Machlenkin A, Boutros M and Beckhove P. [A high-throughput RNAi screen for detection of immune checkpoint molecules that mediate tumor resistance to cytotoxic T lymphocytes.](https://doi.org/10.15252/emmm.201404414) **EMBO Molecular Medicine** (2015)
 
-13. Ummanni R, Mannsperger HA, Sonntag J, Oswald M, **Sharma AK**, König R, Korf U. [Evaluation of reverse phase protein array (RPPA)–based pathway activation profiling in 84 non–small cell lung cancer (NSCLC) cell lines as platform for cancer proteomics and biomarker discovery.](http://www.ncbi.nlm.nih.gov/pubmed/24361481) **Biochimica et Biophysica Acta (BBA)–Proteins and Proteomics** (2014)
+13. Ummanni R, Mannsperger HA, Sonntag J, Oswald M, **Sharma AK**, König R, Korf U. [Evaluation of reverse phase protein array (RPPA)–based pathway activation profiling in 84 non–small cell lung cancer (NSCLC) cell lines as platform for cancer proteomics and biomarker discovery.](https://doi.org/10.1016/j.bbapap.2013.11.017) **Biochimica et Biophysica Acta (BBA)–Proteins and Proteomics** (2014)
 
-14. **Sharma AK** and König R. [Metabolic network modeling approaches for investigating the "hungry cancer".](http://www.ncbi.nlm.nih.gov/pubmed/23680724) **Seminars in Cancer Biology** (2013)
+14. **Sharma AK** and König R. [Metabolic network modeling approaches for investigating the "hungry cancer".](https://doi.org/10.1016/j.semcancer.2013.05.001) **Seminars in Cancer Biology** (2013)
 
 
 # IN PREPARATION
