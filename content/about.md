@@ -10,7 +10,7 @@ date: 2020-10-15T12:08:32+02:00
 
 I a Scientific Investigator - Computational Biology at [GlaxoSmithKline (GSK)] (https://www.gsk.com/en-gb/). Previously, I have worked as a bioinformatics scientist at the [Health Data Science Unit](https://www.hdsu.org/), Universitätsklinikum Heidelberg, Germany.
 
-I did my doctoral research at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html) and [Hans Knöll Institute (HKI)](http://www.leibniz-hki.de/en/home.html). After my PhD, I briefly worked as a scientific associate at [The Center for Sepsis Control & Care](http://www.cscc.uniklinikum-jena.de/cscc/en/CSCC.html), Universitätsklinikum Jena.
+I did my doctoral research at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html) and [Hans Knöll Institute (HKI)](http://www.leibniz-hki.de/en/home.html).
 
 I have a Masters degree in Genomics from the [Madurai Kamraj University](http://www.genomicsmku.org/), India and a Bachelors degree in Biotechnology from [Vellore Institute of Technology](http://www.vit.ac.in/), India.
 
